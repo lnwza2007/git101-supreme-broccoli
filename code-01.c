@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-    char text[] = "hello Git";
+    char text[] = "helloGit";
     printf("%s\n",text);
 }
